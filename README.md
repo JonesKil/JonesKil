@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### :octocat: My stats :chart_with_upwards_trend:
+[![JonesKil's github stats](https://github-readme-stats.vercel.app/api?username=JonesKil&show_icons=true&line_height=21&show_icons=true&theme=vue&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonesKil&show_icons=true&layout=compact&theme=vue&hide_border=true&langs_count=10&hide=html,css,jupyter%20notebook,hack)](https://github.com/anuraghazra/github-readme-stats)
+
