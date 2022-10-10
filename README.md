@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 Ask me anything on [LinkedIn...](https://www.linkedin.com/in/jones-mbindyo/)
+
+📫 Reach me on a personal level through [LinkedIn](https://www.linkedin.com/in/jones-mbindyo/) or [Twitter](https://twitter.com/RocqJones)
 
 
 ### :octocat: My stats :chart_with_upwards_trend:
